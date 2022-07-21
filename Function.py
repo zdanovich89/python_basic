@@ -1,5 +1,3 @@
-
-
 def show_greetings(name):
     print("Hello " + name)
 
