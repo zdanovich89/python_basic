@@ -1,5 +1,5 @@
 import pygame
-
+print(pygame.__version__)
 MAX_X = 1920
 MAX_Y = 1080
 IMG_SIZE = 200
